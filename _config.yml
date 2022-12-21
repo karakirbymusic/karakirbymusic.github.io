@@ -21,7 +21,7 @@ author: Cara Ni
 
 navbar-links:
   About Me: "/pages/About"
-  Music: "/pages/About/Music"
+  Music: "/pages/Music"
   Contact: "/pages/contact"
 
 ################
