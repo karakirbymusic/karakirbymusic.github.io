@@ -24,7 +24,7 @@ title: Contact
    Message*
   <br>
   <br>
-  <textarea name="message" placeholder="Your message" rows="3"></textarea>
+  <textarea name="message" placeholder="Your message" rows="4"></textarea>
   <br>
   <br>
   <button type="submit">Submit</button>
