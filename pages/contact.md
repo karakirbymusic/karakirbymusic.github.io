@@ -3,6 +3,8 @@ layout: page
 title: Contact
 ---
 
+Feel free to send me any requests using the form below.
+
 
 <!-- <form accept-charset="UTF-8" action="https://formkeep.com/f/exampletoken" method="POST">
   <input type="email" name="email" placeholder="Your Email">
