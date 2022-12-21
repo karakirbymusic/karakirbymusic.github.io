@@ -17,3 +17,10 @@ Gotta try that google form
   <input type="hidden" name="utf8" value="✓">
   <button type="submit">Submit</button>
 </form>
+
+
+<form action="http://formspree.io/you@email.com" method="post">
+  <input type="email" name="_replyto">
+  <textarea name="body"></textarea>
+  <input type="submit" value="Send">
+</form>
