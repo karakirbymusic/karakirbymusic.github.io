@@ -10,14 +10,14 @@ Feel free to send me any requests using the form below.
    accept-charset="UTF-8"
    enctype="multipart/form-data"
    method="POST">
-   Email Address*
+   <p>Email Address*</p>
   <input type="email" name="email" placeholder="Your Email">
-   Name*
+   <p>Name*</p>
   <input type="text" name="name" placeholder="Your Name">
   <input type="hidden" name="utf8" value="✓">
   <br>
   <br>
-   Message*
+  <p>Message*</p>
   <br>
   <textarea name="message" placeholder="Your message" rows="4"></textarea>
   <br>
