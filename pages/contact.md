@@ -28,7 +28,6 @@ Gotta try that google form
    <br>
   <textarea name="message" placeholder="Your message" rows="3">
   </textarea>
-  <input type="hidden" name="utf8" value="✓">
   <button type="submit">Submit</button>
 </form>
 
