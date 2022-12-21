@@ -29,6 +29,8 @@ Gotta try that google form
   <br>
   <br>
    Message*
+  <br>
+  <br>
   <textarea name="message" placeholder="Your message" rows="3"></textarea>
   <button type="submit">Submit</button>
 </form>
