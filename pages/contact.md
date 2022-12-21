@@ -20,8 +20,11 @@ Gotta try that google form
 </form>
 
 
-<form action="http://formspree.io/you@email.com" method="post">
-  <input type="email" name="_replyto">
-  <textarea name="body"></textarea>
-  <input type="submit" value="Send">
+<form accept-charset="UTF-8" action="https://formkeep.com/f/exampletoken" method="POST">
+  <input type="email" name="email" placeholder="Your Email">
+  <input type="text" name="name" placeholder="Your Name">
+  <input type="textarea" name="message" placeholder="Message">
+  <input type="hidden" name="utf8" value="✓">
+  <button type="submit">Submit</button>
 </form>
+
