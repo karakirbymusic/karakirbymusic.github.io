@@ -25,6 +25,7 @@ Gotta try that google form
   <input type="text" name="name" placeholder="Your Name">
   <input type="hidden" name="utf8" value="✓">
   <br>
+   <br>
   <textarea name="message" placeholder="Your message" rows="3">
   </textarea>
   <input type="hidden" name="utf8" value="✓">
