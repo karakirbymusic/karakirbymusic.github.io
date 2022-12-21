@@ -3,7 +3,7 @@ layout: page
 title: Contact
 ---
 
-Feel free to send me any requests using the form below.
+Feel free to send me any requests using the form below. After submitting you will be redirected to the form hosting site. Your submission will be submitted, please use the back arrow in your browser to return to this page.
 
 
 <form action="https://formkeep.com/f/4f7aa1661c70"
