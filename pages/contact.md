@@ -16,6 +16,7 @@ Feel free to send me any requests using the form below.
   <input type="text" name="name" placeholder="Your Name">
   <input type="hidden" name="utf8" value="✓">
   <br>
+  <br>
    Message*
   <br>
   <textarea name="message" placeholder="Your message" rows="4"></textarea>
