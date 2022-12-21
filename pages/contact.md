@@ -17,5 +17,6 @@ Feel free to send me any requests using the form below.
   <input type="email" name="email" placeholder="Your Email">
   <p>Message*</p>
   <textarea name="message" placeholder="Your message" rows="4"></textarea>
+   <br>
   <button type="submit">Submit</button>
 </form>
