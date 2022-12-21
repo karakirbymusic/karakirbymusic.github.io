@@ -23,7 +23,8 @@ Gotta try that google form
 <form accept-charset="UTF-8" action="https://formkeep.com/f/exampletoken" method="POST">
   <input type="email" name="email" placeholder="Your Email">
   <input type="text" name="name" placeholder="Your Name">
-  <input type="textarea" name="message" placeholder="Message">
+  <textarea name="message" placeholder="Your message" rows="3">
+  </textarea>
   <input type="hidden" name="utf8" value="✓">
   <button type="submit">Submit</button>
 </form>
