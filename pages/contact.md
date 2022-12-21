@@ -15,7 +15,7 @@ Feel free to send me any requests using the form below.
 </form> -->
 
 
-<form accept-charset="UTF-8" action="https://formkeep.com/f/exampletoken" method="POST">
+<form accept-charset="UTF-8" action="form action="https://formkeep.com/f/5c4d99ca6d04" method="POST">
   <p>Email Address*</p>
   <input type="email" name="email" placeholder="Your Email">
   <p>Name*</p>
