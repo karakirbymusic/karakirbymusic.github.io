@@ -11,13 +11,13 @@ title: Contact
 
 Gotta try that google form
 
-<form accept-charset="UTF-8" action="https://formkeep.com/f/exampletoken" method="POST">
+<!-- <form accept-charset="UTF-8" action="https://formkeep.com/f/exampletoken" method="POST">
   <input type="email" name="email" placeholder="Your Email">
   <input type="text" name="name" placeholder="Your Name">
   <input type="textarea" name="message" placeholder="Message" rows="3">
   <input type="hidden" name="utf8" value="✓">
   <button type="submit">Submit</button>
-</form>
+</form> -->
 
 
 <form accept-charset="UTF-8" action="https://formkeep.com/f/exampletoken" method="POST">
