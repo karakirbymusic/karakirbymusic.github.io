@@ -12,14 +12,10 @@ Feel free to send me any requests using the form below.
    method="POST">
   <p>Name*</p>
   <input type="text" name="name" placeholder="Your Name">
-  <input type="hidden" name="utf8" value="✓">
-  <br>
-  <br>   
+  <input type="hidden" name="utf8" value="✓">  
   <p>Email Address*</p>
   <input type="email" name="email" placeholder="Your Email">
   <p>Message*</p>
-  <br>
   <textarea name="message" placeholder="Your message" rows="4"></textarea>
-  <br>
   <button type="submit">Submit</button>
 </form>
